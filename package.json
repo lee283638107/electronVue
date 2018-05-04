@@ -1,0 +1,24 @@
+{
+  "name": "electronVue-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/lee283638107/electronVue.git",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "cifer",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.8.4",
+    "vue": "^2.5.16",
+    "vue-cli": "^2.9.3"
+  }
+}
